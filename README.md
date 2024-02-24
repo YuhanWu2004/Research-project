@@ -1,4 +1,7 @@
 Rocket Model Drafting
-To investigate the topic: What's the optimal fin shape for an air-powered rocket, I used Autodesk Fusion 360 and Open Racket to draft three different types of rockets.
-The three types of rocket are: eliptical fin, 
-A video represetation of the rocket models drafted is included.
+To investigate the topic: What's the optimal fin shape for an air-powered rocket, I first researched about how does different fin shapes influence the stability and the speed of rockets. Then, I used Autodesk Fusion 360 and Open Racket to draft three different designs of different fin-shaped rockets. Finally, by 3D-printing and putting together the components, we launched the rocket to experiement.
+The three types of rocket are: eliptical fin-shaped rocket, trapezoidal fin-shaped rocket, and clipped delta fin-shaped rocket.
+A video represetation of three rocket models drafted is included.
+A powerpoint of the capstone project of "What's the optimal fin shape for an air-powered rocket" is included.
+A few short videos that show the process of drafting are included.
+By completing this project, I practiced researching, designing, and completing a specific project that requires learning new technologies.
