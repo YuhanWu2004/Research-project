@@ -16,4 +16,6 @@ A powerpoint of the capstone project of "What's the optimal fin shape for an air
 
 A few short videos that show the process of drafting.
 
-By completing this project, I practiced researching, designing, and completing a specific project that requires learning new technologies.
+By completing this project, I practiced researching and designing a project that relates to an area that interests me. 
+
+I learned to use drafting techonologies to build models and to test their performances.
